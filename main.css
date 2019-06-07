@@ -450,7 +450,7 @@ h2 {
     width: calc(50% - 44px);
     display: inline-block;
     background-color: #FAFAFA;
-    /* height: 300px; */
+    letter-spacing: 1px;
     transition-duration: 0.5s;
     border: 1px #eee solid;
     padding: 10px;
