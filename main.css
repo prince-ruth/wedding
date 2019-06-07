@@ -87,9 +87,7 @@ header #reminder #bold {
   background-color: #666;
 }
 
-/*.fixed .menu:hover #burgerone, .fixed .menu:hover #burgertwo, .fixed .menu:hover #burgerthree {
-  background-color: #fff;
-}*/
+
 
 #burgerone {
   position: absolute;
@@ -168,13 +166,13 @@ nav ul {
 }
 
 nav li a {
-  /*text-align: right;*/
+
   color: #b6b6b6;
   text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  /*border-bottom: 2px rgba(17, 17, 17, 0) solid;*/
-  /*padding-bottom: 10px;*/
+
+
   letter-spacing: 2px;
   text-decoration: none;
   font-size: 12px;
@@ -284,8 +282,8 @@ header span {
   border-top: 2px #fff solid;
   border-left: 2px #fff solid;
   border-top-left-radius: 4px;
-  -ms-transform: rotate(45deg); /* IE 9 */
-  -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
   position: absolute;
   left: 17px;
@@ -369,7 +367,7 @@ h2 {
 }
 
 #contact {
-  /*position: relative;*/
+
   background-color: #fff;
 }
 
@@ -403,12 +401,12 @@ h2 {
     padding-right: 15%;
     margin-top: 50px;
     color: #fff;
-    /* margin-bottom: 48px; */
+
     text-align: center;
 }
 
 .temoins {
-    /*background-color: blue;*/
+
     position: relative;
     width: 70%;
     margin-left: 15%;
@@ -438,7 +436,7 @@ h2 {
     letter-spacing: 1px;
     margin-left: 40px;
     padding-left: 10px;
-    /* text-transform: uppercase; */
+
     padding-right: 10px;
 }
 
@@ -462,11 +460,11 @@ h2 {
   position: relative;
   width: 100%;
   height: 80px;
-  /*background-color: red;*/
+
 }
 
 .name {
-  /*background-color: red;*/
+
   height: 80px;
   margin-left: 100px;
 }
@@ -525,7 +523,7 @@ h2 {
 
 .person li:before {
     content: "• ";
-    color: #404040; /* or whatever color you prefer */
+    color: #404040;
 }
 
 .head {
@@ -722,7 +720,7 @@ h2 {
     width: calc(100% - 20px);
     display: inline-block;
     background-color: #FAFAFA;
-    /* height: 300px; */
+
     transition-duration: 0.5s;
     border: 1px #eee solid;
     padding: 10px;
@@ -731,7 +729,7 @@ h2 {
   }
 
   .temoins {
-    /* background-color: blue; */
+
     position: relative;
     width: calc(70% + 20px);
     margin-left: calc(15% - 20px);
